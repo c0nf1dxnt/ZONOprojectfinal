@@ -1,0 +1,932 @@
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.AssemblyReference.cache
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Properties.Resources.resources
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.GenerateResource.cache
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfoInputs.cache
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfo.cs
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.CoreCompileInputs.cache
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.sourcelink.json
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.exe
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.deps.json
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.runtimeconfig.json
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.pdb
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.LoginForm.resources
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.MainForm.resources
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproj.3F4CE330.Up2Date
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\refint\ZONOproject.dll
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.pdb
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.genruntimeconfig.cache
+D:\Code\kfuHomeworkSem2\projects\ZONAsolution\ZONAproject\obj\Debug\net8.0-windows\ref\ZONOproject.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.exe
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.deps.json
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.runtimeconfig.json
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.LoginForm.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.MainForm.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Properties.Resources.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.sourcelink.json
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproj.3F4CE330.Up2Date
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\refint\ZONOproject.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ref\ZONOproject.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormEN.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormRU.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.Languages.resources
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.exe
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.deps.json
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.runtimeconfig.json
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.AssemblyReference.cache
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.LoginForm.resources
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.MainForm.resources
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.Languages.resources
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormEN.resources
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormRU.resources
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Properties.Resources.resources
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.GenerateResource.cache
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfoInputs.cache
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfo.cs
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.CoreCompileInputs.cache
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.sourcelink.json
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproj.3F4CE330.Up2Date
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\refint\ZONOproject.dll
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.genruntimeconfig.cache
+C:\Users\c0nf1\Source\Repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ref\ZONOproject.dll
+C:\Users\c0nf1\source\repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.AddingNewProductForm.resources
+C:\Users\c0nf1\source\repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.ProductControl.resources
+C:\Users\c0nf1\source\repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.CollectionControl.resources
+C:\Users\c0nf1\source\repos\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewCollectionCreatingForm.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.exe
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.deps.json
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.runtimeconfig.json
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.MainForm.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.Languages.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormEN.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormRU.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Properties.Resources.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.CollectionControl.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.ProductControl.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfo.cs
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.sourcelink.json
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproj.3F4CE330.Up2Date
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\refint\ZONOproject.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.genruntimeconfig.cache
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ref\ZONOproject.dll
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.LoginForm.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.exe
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.deps.json
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.runtimeconfig.json
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.AssemblyReference.cache
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.AddingNewProductForm.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.LoginForm.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.MainForm.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewCollectionCreatingForm.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.Languages.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormEN.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormRU.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Properties.Resources.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.CollectionControl.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.ProductControl.resources
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.GenerateResource.cache
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfoInputs.cache
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfo.cs
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.CoreCompileInputs.cache
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.sourcelink.json
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproj.3F4CE330.Up2Date
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\refint\ZONOproject.dll
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.genruntimeconfig.cache
+C:\Users\c0nf1\source\repos\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ref\ZONOproject.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.AssemblyReference.cache
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.LoginForm.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.MainForm.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.Languages.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormEN.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormRU.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Properties.Resources.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.CollectionControl.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.ProductControl.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.GenerateResource.cache
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfoInputs.cache
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfo.cs
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.CoreCompileInputs.cache
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.sourcelink.json
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\refint\ZONOproject.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.exe
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.deps.json
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.runtimeconfig.json
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproj.3F4CE330.Up2Date
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.genruntimeconfig.cache
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ref\ZONOproject.dll
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.ProductCardForm.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewCollectionCreationForm.resources
+C:\Users\c0nf1\source\repos\Новая папка (3)\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewProductCreationForm.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewCollectionCreationForm.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewProductCreationForm.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.ProductCardForm.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.CollectionControl.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.ProductControl.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.MainFormEN.resources
+C:\Users\Егор\Desktop\Новая папка\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.MainFormRU.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewCollectionCreationForm.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewProductCreationForm.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.ProductCardForm.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.MainFormEN.resources
+C:\Users\Егор\Desktop\ZONOproject\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.MainFormRU.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.exe
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.deps.json
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.runtimeconfig.json
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.AssemblyReference.cache
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.LoginForm.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.MainForm.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewCollectionCreationForm.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.NewProductCreationForm.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Forms.ProductCardForm.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.Languages.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormEN.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.LoginFormRU.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.MainFormEN.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Localization.MainFormRU.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.Properties.Resources.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.CollectionControl.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.UserControls.ProductControl.resources
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.GenerateResource.cache
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfoInputs.cache
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.AssemblyInfo.cs
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.csproj.CoreCompileInputs.cache
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproj.3F4CE330.Up2Date
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\refint\ZONOproject.dll
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.pdb
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ZONOproject.genruntimeconfig.cache
+C:\Users\c0nf1\Downloads\Новая папка (4)\ZONOproject-main\ZONAproject\obj\Debug\net8.0-windows\ref\ZONOproject.dll
