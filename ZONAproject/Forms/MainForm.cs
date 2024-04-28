@@ -557,7 +557,7 @@ namespace ZONOproject
                     database.SaveChanges();
                 }
 
-                using (var newProductForm = new NewProductCreationForm(currentUser))
+                using (var newProductForm = new NewProductCreationForm(currentUser.ID, languageResources))
                 {
                     newProductForm.ShowDialog();
                 }

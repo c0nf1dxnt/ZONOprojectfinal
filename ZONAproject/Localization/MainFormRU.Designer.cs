@@ -79,6 +79,24 @@ namespace ZONOproject.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Товар успешно добавлен!.
+        /// </summary>
+        internal static string addingProductContent {
+            get {
+                return ResourceManager.GetString("addingProductContent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Внимание!.
+        /// </summary>
+        internal static string addingProductTitle {
+            get {
+                return ResourceManager.GetString("addingProductTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Пожалуйста, введите название подборки.
         /// </summary>
         internal static string addingSelectionEmptyDataFieldContent {
@@ -224,6 +242,15 @@ namespace ZONOproject.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Загрузить.
+        /// </summary>
+        internal static string loadProductPhotoButton {
+            get {
+                return ResourceManager.GetString("loadProductPhotoButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на ZONO - лучший маркетплейс.
         /// </summary>
         internal static string MainForm {
@@ -323,6 +350,15 @@ namespace ZONOproject.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Создать/редактировать товар.
+        /// </summary>
+        internal static string NewProductCreationForm {
+            get {
+                return ResourceManager.GetString("NewProductCreationForm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Карточка товара.
         /// </summary>
         internal static string ProductCardForm {
@@ -341,6 +377,15 @@ namespace ZONOproject.Localization {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Введите описание товара.
+        /// </summary>
+        internal static string productDescriptionTextBox {
+            get {
+                return ResourceManager.GetString("productDescriptionTextBox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Производитель.
         /// </summary>
         internal static string productManufacturerLabelTitle {
@@ -355,6 +400,15 @@ namespace ZONOproject.Localization {
         internal static string productMarkLabel {
             get {
                 return ResourceManager.GetString("productMarkLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Введите название товара.
+        /// </summary>
+        internal static string productNameTextBox {
+            get {
+                return ResourceManager.GetString("productNameTextBox", resourceCulture);
             }
         }
         

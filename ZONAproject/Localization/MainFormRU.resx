@@ -123,6 +123,12 @@
   <data name="addingCollectionsLongNameTitle" xml:space="preserve">
     <value>Внимание!</value>
   </data>
+  <data name="addingProductContent" xml:space="preserve">
+    <value>Товар успешно добавлен!</value>
+  </data>
+  <data name="addingProductTitle" xml:space="preserve">
+    <value>Внимание!</value>
+  </data>
   <data name="addingSelectionEmptyDataFieldContent" xml:space="preserve">
     <value>Пожалуйста, введите название подборки</value>
   </data>
@@ -179,6 +185,9 @@
   <data name="informationLabel" xml:space="preserve">
     <value>Введите название новой подборки</value>
   </data>
+  <data name="loadProductPhotoButton" xml:space="preserve">
+    <value>Загрузить</value>
+  </data>
   <data name="MainForm" xml:space="preserve">
     <value>ZONO - лучший маркетплейс</value>
   </data>
@@ -212,17 +221,26 @@
   <data name="NewCollectionCreationForm" xml:space="preserve">
     <value>Создание новой подборки</value>
   </data>
+  <data name="NewProductCreationForm" xml:space="preserve">
+    <value>Создать/редактировать товар</value>
+  </data>
   <data name="ProductCardForm" xml:space="preserve">
     <value>Карточка товара</value>
   </data>
   <data name="productColorLabelTitle" xml:space="preserve">
     <value>Цвет товара</value>
   </data>
+  <data name="productDescriptionTextBox" xml:space="preserve">
+    <value>Введите описание товара</value>
+  </data>
   <data name="productManufacturerLabelTitle" xml:space="preserve">
     <value>Производитель</value>
   </data>
   <data name="productMarkLabel" xml:space="preserve">
     <value>Оценка товара</value>
+  </data>
+  <data name="productNameTextBox" xml:space="preserve">
+    <value>Введите название товара</value>
   </data>
   <data name="productPriceLabel" xml:space="preserve">
     <value>Цена</value>

@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\localization\\languages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\localization\\languages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\localization\\languages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\localization\\loginformen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\localization\\loginformen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\localization\\loginformen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\usercontrols\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\usercontrols\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\usercontrols\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\localization\\languages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\localization\\languages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\localization\\languages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\usercontrols\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\usercontrols\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\usercontrols\\productcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\database\\databaseinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\database\\databaseinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\database\\databaseinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\database\\dataencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\database\\dataencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\database\\dataencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|c:\\users\\c0nf1\\downloads\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\zonoproject-main\\zonaproject\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\zonaproject\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{46A15521-D4A0-430B-8D4B-E7E8476CD008}|ZONAproject\\ZONOproject.csproj|solutionrelative:zonaproject\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -70,19 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -98,7 +90,20 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ZONAproject\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Forms\\MainForm.cs",
+              "RelativeToolTip": "ZONAproject\\Forms\\MainForm.cs",
+              "ViewState": "AQIAAAkCAAAAAAAAAAAkwDICAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:23:06.821Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -108,191 +113,164 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Languages.resx",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Localization\\Languages.resx",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Localization\\Languages.resx",
               "RelativeDocumentMoniker": "ZONAproject\\Localization\\Languages.resx",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Localization\\Languages.resx",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Localization\\Languages.resx",
               "RelativeToolTip": "ZONAproject\\Localization\\Languages.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-04-28T08:47:51.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:47:51.993Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProductControl.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\UserControls\\ProductControl.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\UserControls\\ProductControl.cs",
               "RelativeDocumentMoniker": "ZONAproject\\UserControls\\ProductControl.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\UserControls\\ProductControl.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\UserControls\\ProductControl.cs",
               "RelativeToolTip": "ZONAproject\\UserControls\\ProductControl.cs",
               "ViewState": "AQIAAHQAAAAAAAAAAAAAACoBAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:47:28.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:47:28.483Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ProductControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\UserControls\\ProductControl.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\UserControls\\ProductControl.cs",
               "RelativeDocumentMoniker": "ZONAproject\\UserControls\\ProductControl.cs",
               "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\UserControls\\ProductControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "ZONAproject\\UserControls\\ProductControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\UserControls\\ProductControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:47:27.129Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\MainForm.cs",
-              "RelativeDocumentMoniker": "ZONAproject\\Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\MainForm.cs",
-              "RelativeToolTip": "ZONAproject\\Forms\\MainForm.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAgwDcAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:23:06.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:47:27.129Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Forms\\MainForm.cs",
               "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "ZONAproject\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:23:05.391Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-04-28T08:23:05.391Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "DataEncryption.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Database\\DataEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Database\\DataEncryption.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Database\\DataEncryption.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Database\\DataEncryption.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Database\\DataEncryption.cs",
               "RelativeToolTip": "ZONAproject\\Database\\DataEncryption.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:19:23.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:19:23.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Program.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Program.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Program.cs",
               "RelativeToolTip": "ZONAproject\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:06:50.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:06:50.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Languages.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Localization\\Languages.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Localization\\Languages.Designer.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Localization\\Languages.Designer.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Localization\\Languages.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Localization\\Languages.Designer.cs",
               "RelativeToolTip": "ZONAproject\\Localization\\Languages.Designer.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAApwBoAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:48:32.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:48:32.968Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LoginFormEN.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Localization\\LoginFormEN.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Localization\\LoginFormEN.Designer.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Localization\\LoginFormEN.Designer.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Localization\\LoginFormEN.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Localization\\LoginFormEN.Designer.cs",
               "RelativeToolTip": "ZONAproject\\Localization\\LoginFormEN.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:48:40.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:48:40.234Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Database\\DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Database\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Database\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Database\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Database\\DatabaseContext.cs",
               "RelativeToolTip": "ZONAproject\\Database\\DatabaseContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:19:04.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:19:04.78Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Forms\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Forms\\LoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Forms\\LoginForm.Designer.cs",
               "RelativeToolTip": "ZONAproject\\Forms\\LoginForm.Designer.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:13:32.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:13:32.874Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Forms\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Forms\\LoginForm.cs",
               "RelativeToolTip": "ZONAproject\\Forms\\LoginForm.cs",
               "ViewState": "AQIAAGEAAAAAAAAAAAAAAMcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:07:26.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:07:26.509Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Forms\\LoginForm.cs",
               "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "ZONAproject\\Forms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Forms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:07:22.481Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-04-28T08:07:22.481Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "DatabaseInteraction.cs",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Database\\DatabaseInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Database\\DatabaseInteraction.cs",
               "RelativeDocumentMoniker": "ZONAproject\\Database\\DatabaseInteraction.cs",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Database\\DatabaseInteraction.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Database\\DatabaseInteraction.cs",
               "RelativeToolTip": "ZONAproject\\Database\\DatabaseInteraction.cs",
               "ViewState": "AQIAAH0BAAAAAAAAAAAAAFEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:06:15.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:06:15.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Properties\\Resources.resx",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "ZONAproject\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\c0nf1\\Downloads\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (4)\\ZONOproject-main\\ZONAproject\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ZONAproject\\Properties\\Resources.resx",
               "RelativeToolTip": "ZONAproject\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-04-28T08:06:05.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-28T08:06:05.872Z"
             }
           ]
         }

@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Forms\NewProductCreationForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Forms\NewCollectionCreationForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -11,6 +8,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\NewProductCreationForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\ProductCardForm.cs">

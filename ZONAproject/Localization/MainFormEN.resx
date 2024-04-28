@@ -123,6 +123,12 @@
   <data name="addingCollectionsLongNameTitle" xml:space="preserve">
     <value>Attention!</value>
   </data>
+  <data name="addingProductContent" xml:space="preserve">
+    <value>Product added successfully!</value>
+  </data>
+  <data name="addingProductTitle" xml:space="preserve">
+    <value>Attention!</value>
+  </data>
   <data name="addingSelectionEmptyDataFieldContent" xml:space="preserve">
     <value>Please enter the collection name</value>
   </data>
@@ -377,6 +383,9 @@
   <data name="informationLabel" xml:space="preserve">
     <value>Enter a name for the new collection</value>
   </data>
+  <data name="loadProductPhotoButton" xml:space="preserve">
+    <value>Load</value>
+  </data>
   <data name="MainForm" xml:space="preserve">
     <value>ZONO - the best marketplace</value>
   </data>
@@ -410,17 +419,26 @@
   <data name="NewCollectionCreationForm" xml:space="preserve">
     <value>Create a new collection</value>
   </data>
+  <data name="NewProductCreationForm" xml:space="preserve">
+    <value>Create/edit product</value>
+  </data>
   <data name="ProductCardForm" xml:space="preserve">
     <value>Product card</value>
   </data>
   <data name="productColorLabelTitle" xml:space="preserve">
     <value>Product color</value>
   </data>
+  <data name="productDescriptionTextBox" xml:space="preserve">
+    <value>Enter product description</value>
+  </data>
   <data name="productManufacturerLabelTitle" xml:space="preserve">
     <value>Manufacturer</value>
   </data>
   <data name="productMarkLabel" xml:space="preserve">
     <value>Product mark</value>
+  </data>
+  <data name="productNameTextBox" xml:space="preserve">
+    <value>Enter product name</value>
   </data>
   <data name="productPriceLabel" xml:space="preserve">
     <value>Price</value>

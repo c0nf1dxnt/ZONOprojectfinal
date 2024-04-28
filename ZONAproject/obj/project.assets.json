@@ -2572,23 +2572,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\c0nf1\\.nuget\\packages\\": {},
+    "C:\\Users\\Егор\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c0nf1\\Downloads\\Новая папка (4)\\ZONOproject-main\\ZONAproject\\ZONOproject.csproj",
+      "projectUniqueName": "C:\\Users\\Егор\\Desktop\\Новая папка\\ZONAproject\\ZONOproject.csproj",
       "projectName": "ZONOproject",
-      "projectPath": "C:\\Users\\c0nf1\\Downloads\\Новая папка (4)\\ZONOproject-main\\ZONAproject\\ZONOproject.csproj",
-      "packagesPath": "C:\\Users\\c0nf1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c0nf1\\Downloads\\Новая папка (4)\\ZONOproject-main\\ZONAproject\\obj\\",
+      "projectPath": "C:\\Users\\Егор\\Desktop\\Новая папка\\ZONAproject\\ZONOproject.csproj",
+      "packagesPath": "C:\\Users\\Егор\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Егор\\Desktop\\Новая папка\\ZONAproject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\c0nf1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Егор\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2597,7 +2597,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

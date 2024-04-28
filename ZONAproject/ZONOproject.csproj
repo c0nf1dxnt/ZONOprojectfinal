@@ -29,16 +29,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Languages.resx</DependentUpon>
     </Compile>
-    <Compile Update="Localization\MainFormEN.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>MainFormEN.resx</DependentUpon>
-    </Compile>
-    <Compile Update="Localization\MainFormRU.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>MainFormRU.resx</DependentUpon>
-    </Compile>
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -50,14 +40,6 @@
     <EmbeddedResource Update="Localization\Languages.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Languages.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Localization\MainFormEN.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>MainFormEN.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Localization\MainFormRU.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>MainFormRU.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="LoginFormRU.resx">
       <LastGenOutput>LoginFormRU.Designer.cs</LastGenOutput>

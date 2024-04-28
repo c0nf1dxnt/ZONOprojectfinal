@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZONOproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8fa7117e22ca38b85e582e1884688ed3cc93ae5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZONOproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZONOproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

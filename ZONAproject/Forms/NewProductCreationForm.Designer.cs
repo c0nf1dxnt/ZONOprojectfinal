@@ -29,280 +29,324 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NewProductCreationForm));
-            productNameTextBox = new TextBox();
-            productPhotoPictureBox = new PictureBox();
-            changePhotoButton = new Button();
+            productInformationTableLayoutPanel = new TableLayoutPanel();
+            productInfoTableLayoutPanel = new TableLayoutPanel();
+            productTypeLabelTitle = new Label();
+            productManufacturerLabelTitle = new Label();
+            productYearOfProductionLabelTitle = new Label();
+            productColorLabelTitle = new Label();
+            productPriceLabelTitle = new Label();
             productDescriptionTextBox = new TextBox();
-            productManufacturerComboBox = new ComboBox();
-            label1 = new Label();
-            label2 = new Label();
             productTypeComboBox = new ComboBox();
-            label3 = new Label();
-            label4 = new Label();
+            productManufacturerComboBox = new ComboBox();
             productColorComboBox = new ComboBox();
-            label5 = new Label();
-            productPriceTextBox = new TextBox();
-            button2 = new Button();
-            textBox1 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            button1 = new Button();
-            button4 = new Button();
-            button5 = new Button();
             productYearOfProductionTextBox = new TextBox();
+            productPriceTextBox = new TextBox();
+            saveMarkButton = new Button();
+            productPictureTableLayoutPanel = new TableLayoutPanel();
+            loadProductPhotoButton = new Button();
+            productPhotoPictureBox = new PictureBox();
+            productNameTextBox = new TextBox();
+            productInformationTableLayoutPanel.SuspendLayout();
+            productInfoTableLayoutPanel.SuspendLayout();
+            productPictureTableLayoutPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)productPhotoPictureBox).BeginInit();
             SuspendLayout();
             // 
-            // productNameTextBox
+            // productInformationTableLayoutPanel
             // 
-            productNameTextBox.Location = new Point(83, 12);
-            productNameTextBox.Name = "productNameTextBox";
-            productNameTextBox.PlaceholderText = "Название товара";
-            productNameTextBox.Size = new Size(253, 23);
-            productNameTextBox.TabIndex = 0;
+            productInformationTableLayoutPanel.ColumnCount = 1;
+            productInformationTableLayoutPanel.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 100F));
+            productInformationTableLayoutPanel.Controls.Add(productInfoTableLayoutPanel, 0, 2);
+            productInformationTableLayoutPanel.Controls.Add(saveMarkButton, 0, 3);
+            productInformationTableLayoutPanel.Controls.Add(productPictureTableLayoutPanel, 0, 1);
+            productInformationTableLayoutPanel.Controls.Add(productNameTextBox, 0, 0);
+            productInformationTableLayoutPanel.Dock = DockStyle.Fill;
+            productInformationTableLayoutPanel.Location = new Point(0, 0);
+            productInformationTableLayoutPanel.Margin = new Padding(0);
+            productInformationTableLayoutPanel.Name = "productInformationTableLayoutPanel";
+            productInformationTableLayoutPanel.RowCount = 4;
+            productInformationTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 8F));
+            productInformationTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 37F));
+            productInformationTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 45F));
+            productInformationTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 10F));
+            productInformationTableLayoutPanel.Size = new Size(554, 783);
+            productInformationTableLayoutPanel.TabIndex = 1;
             // 
-            // productPhotoPictureBox
+            // productInfoTableLayoutPanel
             // 
-            productPhotoPictureBox.Location = new Point(83, 53);
-            productPhotoPictureBox.Name = "productPhotoPictureBox";
-            productPhotoPictureBox.Size = new Size(253, 168);
-            productPhotoPictureBox.SizeMode = PictureBoxSizeMode.Zoom;
-            productPhotoPictureBox.TabIndex = 1;
-            productPhotoPictureBox.TabStop = false;
+            productInfoTableLayoutPanel.ColumnCount = 2;
+            productInfoTableLayoutPanel.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
+            productInfoTableLayoutPanel.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
+            productInfoTableLayoutPanel.Controls.Add(productTypeLabelTitle, 0, 1);
+            productInfoTableLayoutPanel.Controls.Add(productManufacturerLabelTitle, 0, 2);
+            productInfoTableLayoutPanel.Controls.Add(productYearOfProductionLabelTitle, 0, 3);
+            productInfoTableLayoutPanel.Controls.Add(productColorLabelTitle, 0, 4);
+            productInfoTableLayoutPanel.Controls.Add(productPriceLabelTitle, 0, 5);
+            productInfoTableLayoutPanel.Controls.Add(productDescriptionTextBox, 0, 0);
+            productInfoTableLayoutPanel.Controls.Add(productTypeComboBox, 1, 1);
+            productInfoTableLayoutPanel.Controls.Add(productManufacturerComboBox, 1, 2);
+            productInfoTableLayoutPanel.Controls.Add(productColorComboBox, 1, 4);
+            productInfoTableLayoutPanel.Controls.Add(productYearOfProductionTextBox, 1, 3);
+            productInfoTableLayoutPanel.Controls.Add(productPriceTextBox, 1, 5);
+            productInfoTableLayoutPanel.Dock = DockStyle.Fill;
+            productInfoTableLayoutPanel.Location = new Point(0, 351);
+            productInfoTableLayoutPanel.Margin = new Padding(0);
+            productInfoTableLayoutPanel.Name = "productInfoTableLayoutPanel";
+            productInfoTableLayoutPanel.RowCount = 6;
+            productInfoTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 20F));
+            productInfoTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 16F));
+            productInfoTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 16F));
+            productInfoTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 16F));
+            productInfoTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 16F));
+            productInfoTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 16F));
+            productInfoTableLayoutPanel.Size = new Size(554, 352);
+            productInfoTableLayoutPanel.TabIndex = 0;
             // 
-            // changePhotoButton
+            // productTypeLabelTitle
             // 
-            changePhotoButton.BackColor = Color.DeepSkyBlue;
-            changePhotoButton.ForeColor = SystemColors.ButtonHighlight;
-            changePhotoButton.Location = new Point(145, 227);
-            changePhotoButton.Name = "changePhotoButton";
-            changePhotoButton.Size = new Size(108, 32);
-            changePhotoButton.TabIndex = 2;
-            changePhotoButton.Text = "Изменить фото";
-            changePhotoButton.UseVisualStyleBackColor = false;
-            changePhotoButton.Click += EditProductPhotoDialog;
+            productTypeLabelTitle.AutoSize = true;
+            productTypeLabelTitle.Dock = DockStyle.Fill;
+            productTypeLabelTitle.Location = new Point(35, 70);
+            productTypeLabelTitle.Margin = new Padding(35, 0, 0, 0);
+            productTypeLabelTitle.Name = "productTypeLabelTitle";
+            productTypeLabelTitle.Size = new Size(242, 56);
+            productTypeLabelTitle.TabIndex = 0;
+            productTypeLabelTitle.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // productManufacturerLabelTitle
+            // 
+            productManufacturerLabelTitle.AutoSize = true;
+            productManufacturerLabelTitle.Dock = DockStyle.Fill;
+            productManufacturerLabelTitle.Location = new Point(35, 126);
+            productManufacturerLabelTitle.Margin = new Padding(35, 0, 0, 0);
+            productManufacturerLabelTitle.Name = "productManufacturerLabelTitle";
+            productManufacturerLabelTitle.Size = new Size(242, 56);
+            productManufacturerLabelTitle.TabIndex = 0;
+            productManufacturerLabelTitle.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // productYearOfProductionLabelTitle
+            // 
+            productYearOfProductionLabelTitle.AutoSize = true;
+            productYearOfProductionLabelTitle.Dock = DockStyle.Fill;
+            productYearOfProductionLabelTitle.Location = new Point(35, 182);
+            productYearOfProductionLabelTitle.Margin = new Padding(35, 0, 0, 0);
+            productYearOfProductionLabelTitle.Name = "productYearOfProductionLabelTitle";
+            productYearOfProductionLabelTitle.Size = new Size(242, 56);
+            productYearOfProductionLabelTitle.TabIndex = 0;
+            productYearOfProductionLabelTitle.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // productColorLabelTitle
+            // 
+            productColorLabelTitle.AutoSize = true;
+            productColorLabelTitle.Dock = DockStyle.Fill;
+            productColorLabelTitle.Location = new Point(35, 238);
+            productColorLabelTitle.Margin = new Padding(35, 0, 0, 0);
+            productColorLabelTitle.Name = "productColorLabelTitle";
+            productColorLabelTitle.Size = new Size(242, 56);
+            productColorLabelTitle.TabIndex = 0;
+            productColorLabelTitle.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // productPriceLabelTitle
+            // 
+            productPriceLabelTitle.AutoSize = true;
+            productPriceLabelTitle.Dock = DockStyle.Fill;
+            productPriceLabelTitle.Location = new Point(35, 294);
+            productPriceLabelTitle.Margin = new Padding(35, 0, 0, 0);
+            productPriceLabelTitle.Name = "productPriceLabelTitle";
+            productPriceLabelTitle.Size = new Size(242, 58);
+            productPriceLabelTitle.TabIndex = 0;
+            productPriceLabelTitle.TextAlign = ContentAlignment.MiddleLeft;
             // 
             // productDescriptionTextBox
             // 
-            productDescriptionTextBox.Location = new Point(103, 278);
+            productDescriptionTextBox.BorderStyle = BorderStyle.FixedSingle;
+            productInfoTableLayoutPanel.SetColumnSpan(productDescriptionTextBox, 2);
+            productDescriptionTextBox.Cursor = Cursors.IBeam;
+            productDescriptionTextBox.Dock = DockStyle.Fill;
+            productDescriptionTextBox.Location = new Point(25, 3);
+            productDescriptionTextBox.Margin = new Padding(25, 3, 25, 5);
             productDescriptionTextBox.Multiline = true;
             productDescriptionTextBox.Name = "productDescriptionTextBox";
-            productDescriptionTextBox.PlaceholderText = "Описание товара";
-            productDescriptionTextBox.Size = new Size(352, 58);
-            productDescriptionTextBox.TabIndex = 3;
-            // 
-            // productManufacturerComboBox
-            // 
-            productManufacturerComboBox.FormattingEnabled = true;
-            productManufacturerComboBox.Location = new Point(334, 356);
-            productManufacturerComboBox.Name = "productManufacturerComboBox";
-            productManufacturerComboBox.Size = new Size(121, 23);
-            productManufacturerComboBox.TabIndex = 4;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(103, 359);
-            label1.Name = "label1";
-            label1.Size = new Size(92, 15);
-            label1.TabIndex = 5;
-            label1.Text = "Производитель";
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(103, 446);
-            label2.Name = "label2";
-            label2.Size = new Size(104, 15);
-            label2.TabIndex = 6;
-            label2.Text = "Год производства";
+            productDescriptionTextBox.Size = new Size(504, 62);
+            productDescriptionTextBox.TabIndex = 0;
+            productDescriptionTextBox.TabStop = false;
             // 
             // productTypeComboBox
             // 
+            productTypeComboBox.Cursor = Cursors.Hand;
+            productTypeComboBox.Dock = DockStyle.Fill;
+            productTypeComboBox.DropDownStyle = ComboBoxStyle.DropDownList;
+            productTypeComboBox.FlatStyle = FlatStyle.Popup;
             productTypeComboBox.FormattingEnabled = true;
-            productTypeComboBox.Location = new Point(334, 385);
+            productTypeComboBox.Location = new Point(302, 83);
+            productTypeComboBox.Margin = new Padding(25, 13, 25, 0);
             productTypeComboBox.Name = "productTypeComboBox";
-            productTypeComboBox.Size = new Size(121, 23);
-            productTypeComboBox.TabIndex = 9;
+            productTypeComboBox.Size = new Size(227, 28);
+            productTypeComboBox.TabIndex = 0;
+            productTypeComboBox.TabStop = false;
             // 
-            // label3
+            // productManufacturerComboBox
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(103, 388);
-            label3.Name = "label3";
-            label3.Size = new Size(67, 15);
-            label3.TabIndex = 8;
-            label3.Text = "Тип товара";
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(103, 475);
-            label4.Name = "label4";
-            label4.Size = new Size(35, 15);
-            label4.TabIndex = 10;
-            label4.Text = "Цена";
+            productManufacturerComboBox.Cursor = Cursors.Hand;
+            productManufacturerComboBox.Dock = DockStyle.Fill;
+            productManufacturerComboBox.DropDownStyle = ComboBoxStyle.DropDownList;
+            productManufacturerComboBox.FlatStyle = FlatStyle.Popup;
+            productManufacturerComboBox.FormattingEnabled = true;
+            productManufacturerComboBox.Location = new Point(302, 139);
+            productManufacturerComboBox.Margin = new Padding(25, 13, 25, 0);
+            productManufacturerComboBox.Name = "productManufacturerComboBox";
+            productManufacturerComboBox.Size = new Size(227, 28);
+            productManufacturerComboBox.TabIndex = 0;
+            productManufacturerComboBox.TabStop = false;
             // 
             // productColorComboBox
             // 
+            productColorComboBox.Cursor = Cursors.Hand;
+            productColorComboBox.Dock = DockStyle.Fill;
+            productColorComboBox.FlatStyle = FlatStyle.Popup;
             productColorComboBox.FormattingEnabled = true;
-            productColorComboBox.Location = new Point(334, 414);
+            productColorComboBox.Location = new Point(302, 251);
+            productColorComboBox.Margin = new Padding(25, 13, 25, 0);
             productColorComboBox.Name = "productColorComboBox";
-            productColorComboBox.Size = new Size(121, 23);
-            productColorComboBox.TabIndex = 13;
-            // 
-            // label5
-            // 
-            label5.AutoSize = true;
-            label5.Location = new Point(103, 417);
-            label5.Name = "label5";
-            label5.Size = new Size(33, 15);
-            label5.TabIndex = 12;
-            label5.Text = "Цвет";
-            // 
-            // productPriceTextBox
-            // 
-            productPriceTextBox.Location = new Point(334, 472);
-            productPriceTextBox.Name = "productPriceTextBox";
-            productPriceTextBox.Size = new Size(121, 23);
-            productPriceTextBox.TabIndex = 14;
-            productPriceTextBox.KeyPress += BlockingIncorrectInput;
-            // 
-            // button2
-            // 
-            button2.BackColor = Color.DeepSkyBlue;
-            button2.ForeColor = SystemColors.ButtonHighlight;
-            button2.Location = new Point(193, 525);
-            button2.Name = "button2";
-            button2.Size = new Size(145, 37);
-            button2.TabIndex = 15;
-            button2.Text = "Сохранить";
-            button2.UseVisualStyleBackColor = false;
-            button2.Click += SaveNewProductInDatabase;
-            // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(355, 99);
-            textBox1.Name = "textBox1";
-            textBox1.PlaceholderText = "Производитель";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 16;
-            // 
-            // textBox3
-            // 
-            textBox3.Location = new Point(355, 128);
-            textBox3.Name = "textBox3";
-            textBox3.PlaceholderText = "Тип товара";
-            textBox3.Size = new Size(100, 23);
-            textBox3.TabIndex = 23;
-            // 
-            // textBox4
-            // 
-            textBox4.Location = new Point(355, 157);
-            textBox4.Name = "textBox4";
-            textBox4.PlaceholderText = "Цвет";
-            textBox4.Size = new Size(100, 23);
-            textBox4.TabIndex = 24;
-            // 
-            // button1
-            // 
-            button1.Location = new Point(471, 99);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 26;
-            button1.Text = "Добавить";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click_1;
-            // 
-            // button4
-            // 
-            button4.Location = new Point(471, 128);
-            button4.Name = "button4";
-            button4.Size = new Size(75, 23);
-            button4.TabIndex = 28;
-            button4.Text = "Добавить";
-            button4.UseVisualStyleBackColor = true;
-            button4.Click += button4_Click;
-            // 
-            // button5
-            // 
-            button5.Location = new Point(471, 157);
-            button5.Name = "button5";
-            button5.Size = new Size(75, 23);
-            button5.TabIndex = 29;
-            button5.Text = "Добавить";
-            button5.UseVisualStyleBackColor = true;
-            button5.Click += button5_Click;
+            productColorComboBox.Size = new Size(227, 28);
+            productColorComboBox.TabIndex = 0;
+            productColorComboBox.TabStop = false;
             // 
             // productYearOfProductionTextBox
             // 
-            productYearOfProductionTextBox.Location = new Point(334, 443);
+            productYearOfProductionTextBox.BorderStyle = BorderStyle.FixedSingle;
+            productYearOfProductionTextBox.Cursor = Cursors.IBeam;
+            productYearOfProductionTextBox.Dock = DockStyle.Fill;
+            productYearOfProductionTextBox.Location = new Point(302, 195);
+            productYearOfProductionTextBox.Margin = new Padding(25, 13, 25, 0);
             productYearOfProductionTextBox.Name = "productYearOfProductionTextBox";
-            productYearOfProductionTextBox.Size = new Size(121, 23);
-            productYearOfProductionTextBox.TabIndex = 30;
+            productYearOfProductionTextBox.Size = new Size(227, 27);
+            productYearOfProductionTextBox.TabIndex = 0;
+            productYearOfProductionTextBox.TabStop = false;
             productYearOfProductionTextBox.KeyPress += BlockingIncorrectInput;
+            // 
+            // productPriceTextBox
+            // 
+            productPriceTextBox.BorderStyle = BorderStyle.FixedSingle;
+            productPriceTextBox.Cursor = Cursors.Hand;
+            productPriceTextBox.Dock = DockStyle.Fill;
+            productPriceTextBox.Location = new Point(302, 307);
+            productPriceTextBox.Margin = new Padding(25, 13, 25, 0);
+            productPriceTextBox.Name = "productPriceTextBox";
+            productPriceTextBox.Size = new Size(227, 27);
+            productPriceTextBox.TabIndex = 0;
+            productPriceTextBox.TabStop = false;
+            productPriceTextBox.KeyPress += BlockingIncorrectInput;
+            // 
+            // saveMarkButton
+            // 
+            saveMarkButton.BackColor = Color.FromArgb(0, 166, 253);
+            saveMarkButton.Cursor = Cursors.Hand;
+            saveMarkButton.Dock = DockStyle.Fill;
+            saveMarkButton.Location = new Point(170, 718);
+            saveMarkButton.Margin = new Padding(170, 15, 170, 10);
+            saveMarkButton.Name = "saveMarkButton";
+            saveMarkButton.Size = new Size(214, 55);
+            saveMarkButton.TabIndex = 0;
+            saveMarkButton.UseVisualStyleBackColor = false;
+            saveMarkButton.Click += SaveNewProductInDatabase;
+            // 
+            // productPictureTableLayoutPanel
+            // 
+            productPictureTableLayoutPanel.ColumnCount = 1;
+            productPictureTableLayoutPanel.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 100F));
+            productPictureTableLayoutPanel.Controls.Add(loadProductPhotoButton, 0, 1);
+            productPictureTableLayoutPanel.Controls.Add(productPhotoPictureBox, 0, 0);
+            productPictureTableLayoutPanel.Dock = DockStyle.Fill;
+            productPictureTableLayoutPanel.Location = new Point(0, 62);
+            productPictureTableLayoutPanel.Margin = new Padding(0);
+            productPictureTableLayoutPanel.Name = "productPictureTableLayoutPanel";
+            productPictureTableLayoutPanel.RowCount = 2;
+            productPictureTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 82F));
+            productPictureTableLayoutPanel.RowStyles.Add(new RowStyle(SizeType.Percent, 18F));
+            productPictureTableLayoutPanel.Size = new Size(554, 289);
+            productPictureTableLayoutPanel.TabIndex = 0;
+            // 
+            // loadProductPhotoButton
+            // 
+            loadProductPhotoButton.BackColor = Color.FromArgb(0, 166, 253);
+            loadProductPhotoButton.Cursor = Cursors.Hand;
+            loadProductPhotoButton.Dock = DockStyle.Fill;
+            loadProductPhotoButton.Location = new Point(170, 236);
+            loadProductPhotoButton.Margin = new Padding(170, 0, 170, 5);
+            loadProductPhotoButton.Name = "loadProductPhotoButton";
+            loadProductPhotoButton.Size = new Size(214, 48);
+            loadProductPhotoButton.TabIndex = 0;
+            loadProductPhotoButton.UseVisualStyleBackColor = false;
+            loadProductPhotoButton.Click += EditProductPhotoDialog;
+            // 
+            // productPhotoPictureBox
+            // 
+            productPhotoPictureBox.Dock = DockStyle.Fill;
+            productPhotoPictureBox.Location = new Point(45, 0);
+            productPhotoPictureBox.Margin = new Padding(45, 0, 45, 15);
+            productPhotoPictureBox.Name = "productPhotoPictureBox";
+            productPhotoPictureBox.Size = new Size(464, 221);
+            productPhotoPictureBox.SizeMode = PictureBoxSizeMode.Zoom;
+            productPhotoPictureBox.TabIndex = 0;
+            productPhotoPictureBox.TabStop = false;
+            // 
+            // productNameTextBox
+            // 
+            productNameTextBox.BorderStyle = BorderStyle.FixedSingle;
+            productNameTextBox.Cursor = Cursors.IBeam;
+            productNameTextBox.Dock = DockStyle.Fill;
+            productNameTextBox.Location = new Point(35, 10);
+            productNameTextBox.Margin = new Padding(35, 10, 35, 0);
+            productNameTextBox.Name = "productNameTextBox";
+            productNameTextBox.Size = new Size(484, 27);
+            productNameTextBox.TabIndex = 0;
+            productNameTextBox.TabStop = false;
             // 
             // NewProductCreationForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(561, 588);
-            Controls.Add(productYearOfProductionTextBox);
-            Controls.Add(button5);
-            Controls.Add(button4);
-            Controls.Add(button1);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox1);
-            Controls.Add(button2);
-            Controls.Add(productPriceTextBox);
-            Controls.Add(productColorComboBox);
-            Controls.Add(label5);
-            Controls.Add(label4);
-            Controls.Add(productTypeComboBox);
-            Controls.Add(label3);
-            Controls.Add(label2);
-            Controls.Add(label1);
-            Controls.Add(productManufacturerComboBox);
-            Controls.Add(productDescriptionTextBox);
-            Controls.Add(changePhotoButton);
-            Controls.Add(productPhotoPictureBox);
-            Controls.Add(productNameTextBox);
-            FormBorderStyle = FormBorderStyle.Fixed3D;
+            BackColor = Color.WhiteSmoke;
+            ClientSize = new Size(554, 783);
+            Controls.Add(productInformationTableLayoutPanel);
+            ForeColor = SystemColors.WindowText;
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             Icon = (Icon)resources.GetObject("$this.Icon");
+            Margin = new Padding(4);
             MaximizeBox = false;
             Name = "NewProductCreationForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Добавление нового товара";
             TopMost = true;
+            productInformationTableLayoutPanel.ResumeLayout(false);
+            productInformationTableLayoutPanel.PerformLayout();
+            productInfoTableLayoutPanel.ResumeLayout(false);
+            productInfoTableLayoutPanel.PerformLayout();
+            productPictureTableLayoutPanel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)productPhotoPictureBox).EndInit();
             ResumeLayout(false);
-            PerformLayout();
         }
 
         #endregion
 
-        private TextBox productNameTextBox;
+        private TableLayoutPanel productInformationTableLayoutPanel;
+        private TableLayoutPanel productInfoTableLayoutPanel;
+        private Label productTypeLabelTitle;
+        private Label productManufacturerLabelTitle;
+        private Label productYearOfProductionLabelTitle;
+        private Label productColorLabelTitle;
+        private Label productPriceLabelTitle;
+        private Button saveMarkButton;
+        private TableLayoutPanel productPictureTableLayoutPanel;
         private PictureBox productPhotoPictureBox;
-        private Button changePhotoButton;
+        private Button loadProductPhotoButton;
+        private TextBox productNameTextBox;
         private TextBox productDescriptionTextBox;
-        private ComboBox productManufacturerComboBox;
-        private Label label1;
-        private Label label2;
         private ComboBox productTypeComboBox;
-        private Label label3;
-        private Label label4;
+        private ComboBox productManufacturerComboBox;
         private ComboBox productColorComboBox;
-        private Label label5;
-        private TextBox productPriceTextBox;
-        private Button button2;
-        private TextBox textBox1;
-        private TextBox textBox3;
-        private TextBox textBox4;
-        private Button button1;
-        private Button button4;
-        private Button button5;
         private TextBox productYearOfProductionTextBox;
+        private TextBox productPriceTextBox;
     }
 }
